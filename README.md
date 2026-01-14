@@ -1,15 +1,6 @@
 # TGBot Server
 Digunakan untuk membuat sendiri server khusus berkomunikasi dengan server telegram secara lokal di bandingkan menggunakan api.telegram.org karena latency nya 800Ms dari indonesia di jakarta. Dengan ini koneksi bisa di pangkas menjadi sekitar 5ms.
 
-## Table of Contents
-- [Installation](#installation)
-- [Dependencies](#dependencies)
-- [Usage](#usage)
-- [Documentation](#documentation)
-- [Moving a bot to a local server](#switching)
-- [Moving a bot from one local server to another](#moving)
-- [License](#license)
-
 <a name="cara install"></a>
 ## Cara Install
 Simple, pergi ke bagian relases untuk cara install dan kamu akan dapat versi buid untuk Ubuntu 22.4 dengan arsitektur AMD64 atau ARM64
